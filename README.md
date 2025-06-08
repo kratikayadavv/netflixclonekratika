@@ -1,0 +1,2 @@
+# netflixclonekratika
+Created with CodeSandbox
